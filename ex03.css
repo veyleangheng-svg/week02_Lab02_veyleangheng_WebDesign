@@ -1,0 +1,9 @@
+/* TODO */
+button{
+    border-radius: 7px;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+}
+button:hover{
+    filter:brightness(60%) 
+}

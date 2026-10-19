@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ex01.css">
+</head>
+
+<body>
+
+  <div>
+      <p>Keep track of daily activities can boost productivity and, thus, reduce anxiety.</p>
+      <button style="background-color: darkcyan;"
+            onmouseover="this.style.backgroundColor='green'"
+            onmouseout="this.style.backgroundColor='darkcyan'">Read more >></button>
+  </div>
+  <div >
+      <p>Have a roadmap, reducing distractions, overwhelm or stress</p>
+      <button style="background-color: rgb(246, 197, 49);" 
+            onmouseover="this.style.backgroundColor='blue'"
+            onmouseout="this.style.backgroundColor='rgb(246, 197, 49)'">Read more >></button>
+  </div>
+  <div >
+      <p>Write a to-do list to give you significant control over how your day will look</p>
+      <button style="background-color: orchid;"  
+              onmouseover="this.style.backgroundColor='red'"
+              onmouseout="this.style.backgroundColor='orchid'">Read more >></button>
+  </div>
+</body>
+</html>
